@@ -10,3 +10,5 @@ First step: Type the command "pip install numpy". Type the command "pip install 
 If you try to run the interactive domain program, just run the code "function.py".
 
 If you try to run the computer experiments, just run the code "function_exp.py".
+
+The format of the code I refer to the "mancala" format in HW2, but the code content is completely different
