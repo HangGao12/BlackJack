@@ -289,7 +289,7 @@ def minimax(state, max_depth, evaluate):
 if __name__ == "__main__":
 
     max_depth1 = 1
-    final_size = int(input("Please select the size(21, 50, 70, 90, 100): "))
+    final_size = int(input("Please select the size(30, 50, 70, 90, 110): "))
     number_of_sets = int(input("How many decks do you want(If the size is greater than 50, it is recommended to "
                                "choose 2 decks of cards or more)(1,2,3,4): "))
     model1 = input("Player0, please select the model(human, baseline-AI, or tree-based-AI): ")
