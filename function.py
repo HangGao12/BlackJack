@@ -167,7 +167,7 @@ def is_tied(list1: list) -> bool:
 
 
 def score_in(state: tuple) -> float:  # GHHHHHHHHHHHHH important ------------------------
-    if final_size == 21:
+    if final_size == 30:
         per = 0.86
     elif final_size == 50:
         per = 0.9
