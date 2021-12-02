@@ -1,6 +1,8 @@
 # Game
 HangGao-project
+
 All experiments are based on the environment under python
+
 The current code has not added the part about neural networks
 
 First step: Type the command "pip install numpy".
