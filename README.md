@@ -1,4 +1,4 @@
-# BP Game
+# BJ Game
 HangGao-project
 
 All experiments are based on the environment under python
