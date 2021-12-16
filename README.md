@@ -1,7 +1,7 @@
 # BJ Game
 HangGao-project
 
-It's the source code and data of the my BlackJack(There are a total of 5 "size" options (25, 30, 35, 40, 50))
+It's the source code and data of my BlackJack(There are a total of 5 "size" options (25, 30, 35, 40, 50))
 
 __All experiments are based on the environment under python__
 
