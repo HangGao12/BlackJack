@@ -6,7 +6,8 @@ It's the source code and data of the my BlackJack(There are a total of 5 "size" 
 __All experiments are based on the environment under python__
 
 __Requirement__:
-torch, Matplotlib(Type the command "pip install torch". Type the command "pip install matplotlib". (Make sure that the two data packages "torch" and "matplotlib" are installed on your computer))
+
+Torch, Matplotlib(Type the command "pip install torch". Type the command "pip install matplotlib". (Make sure that the two data packages "torch" and "matplotlib" are installed on your computer))
 
 __Sturcture__:
 __In order to make the program run successfully, please put all 6 ".py" files under the same directory on your computer__
