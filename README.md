@@ -5,6 +5,10 @@ It's the source code and data of my BJ(There are a total of 5 "size" options (25
 
 __All experiments are based on the environment under python__
 
+__How to run the code?
+
+Open your terminal, type the command "python" and your file name. For example, if you try to run the file "nn.py", type the command "python nn.py".
+
 __Requirement__:
 
 Torch, Matplotlib(Type the command "pip install torch". Type the command "pip install matplotlib". (Make sure that the two data packages "torch" and "matplotlib" are installed on your computer))
