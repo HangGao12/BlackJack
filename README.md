@@ -5,7 +5,7 @@ It's the source code and data of my BJ(There are a total of 5 "size" options (25
 
 __All experiments are based on the environment under python__
 
-__How to run the code?
+__How to run the code?__
 
 Open your terminal, type the command "python" and your file name. For example, if you try to run the file "nn.py", type the command "python nn.py".
 
