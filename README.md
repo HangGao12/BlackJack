@@ -30,7 +30,7 @@ __4.__ If you try to run the computer experiments for Neural Network and see the
 
 __5.__ "exist_data.py" is used to store the test-data and train-data. For each data, there are 500 examples in it.(I have done 500 experiments for each data set in advance, and store all the data in a list, and use it as the return value of a function. It can be called directly when you want use it) (for this code, you do not need to run it)
 
-__6.__ "data.py" is used to generate all examples in the training set and test set for the neural network(when you run it, at the end of the program, the screen will display the size of the data set and all the contents of the data set. And this data set will also be returned as the return value of a function)
+__6.__ "data.py" is used to generate all examples in the training set and test set for the neural network(when you run it, at the end of the program, the screen will display the size of the data set and all the contents of the data set. And this data set will also be returned as the return value of a function) (This program does not need to be run now. I have run this program in advance and store the data in data_collected(train_data) and data_collected1(test_data) in exist_data.py)
 
 __Important!!!: please put all 6 ".py" files under the same directory on your computer__
 
