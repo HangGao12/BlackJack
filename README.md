@@ -1,4 +1,4 @@
-# BJ Game
+# BlackJack Game
 HangGao-project
 
 It's the source code and data of my BJ(There are a total of 5 "size" options (25, 30, 35, 40, 50))
